@@ -4,9 +4,9 @@ function App() {
     // const [count, setCount] = useState(0);
 
     return (
-                <div className="App">
-                    <h1>LLEGE</h1>
-                </div>
+        <div className="App">
+            <h1>LLEGE</h1>
+        </div>
     );
 }
 
